@@ -27,8 +27,8 @@ let package = Package(
   ],
   dependencies: [
     .package(
-      url: "https://github.com/facebook/FBAudienceNetwork.git",
-      exact: "6.21.1"
+      url: "https://github.com/hershalle/FBAudienceNetwork.git",
+      branch: "main"
     ),
     .package(
       url: "https://github.com/googleads/swift-package-manager-google-mobile-ads.git",
